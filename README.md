@@ -41,8 +41,3 @@ Hello, Dave.
 [Pipeline] End of Pipeline
 Finished: SUCCESS
 ```
-
-
-update
-some modifications......
-
